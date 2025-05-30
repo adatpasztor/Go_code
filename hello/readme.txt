@@ -7,3 +7,6 @@ A zold is folytatodik
 Es megint
 
 most mar vscode-bol is jo
+
+
+es megint
